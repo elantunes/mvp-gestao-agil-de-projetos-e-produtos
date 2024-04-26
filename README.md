@@ -1,1 +1,1 @@
-# mvp-gestao-agil-de-projetos-e-produtos
+# Projeto da Disciplina Sprint: Gestão Ágil de Projetos e Produtos
